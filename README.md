@@ -89,7 +89,6 @@ Use `const` for variables that you want to be compile-time constants. If the con
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ## Resources and Descriptions
 [The Dart Language](https://dart.dev/language)
