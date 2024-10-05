@@ -87,41 +87,15 @@ A `final` variable can only be set once.
 
 Use `const` for variables that you want to be compile-time constants. If the const variable is at the class level, mark it `static const`.
 
-
-
----
----
 &nbsp;
 &nbsp;
 &nbsp;
-
-# Concepts:
-
-[**UnitTest**](https://docs.python.org/3/library/unittest.html)
-Unit Testing Framework - supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework. 
-
-[**Mock Object Library*](https://docs.python.org/3/library/unittest.mock.html)
-Using `unittest.mock` to replace parts of your system under test with mock objects, and to make assertions about how they have been used. Additionally, `patch()` acts a function decorator, class decorator, or a context manager. Inside the body of the function or `with` statement, the target is patched with a new object.
-
 
 ## Resources and Descriptions
-[Resource]()
-[Resource]()
+[The Dart Language](https://dart.dev/language)
+[Writing command-line apps](https://dart.dev/tutorials/server/cmdline)
 
-&nbsp;
 ---
-&nbsp;
-
-# Code Examples and Highlighted Tasks
-
-## Filtered Logger
-
-### Concepts Used
-
-
-&nbsp;
----
-&nbsp;
 
 ## Authors/Contributors to this project
 This README was made with :heart: by Allison Binger, student at Atlas School Tulsa. Find me on [GitHub](https://github.com/allisonabinger) or [LinkedIn](https://linkedin.com/in/allisonbinger)! :smile_cat:
