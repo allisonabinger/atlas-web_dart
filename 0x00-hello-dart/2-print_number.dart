@@ -1,3 +1,4 @@
+// prints integer variable inside string
 void main() {
   var n = 98;
 
