@@ -21,4 +21,5 @@ if [ "$#" -ne 3 ]; then
   exit 1
 fi
 
+# call it!
 create_files "$1" "$2" "$3"
