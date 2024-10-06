@@ -29,3 +29,6 @@ main() {
     // prints [1, 3, 4];
 }
 ```
+
+## Authors/Contributors to this project
+This README was made with :heart: by Allison Binger, student at Atlas School Tulsa. Find me on [GitHub](https://github.com/allisonabinger) or [LinkedIn](https://linkedin.com/in/allisonbinger)! :smile_cat:
