@@ -24,8 +24,7 @@ Future<num> calculateTotal() async {
       totalPrice += productPrice.toDouble();
     }
     return totalPrice;
-  } catch (err) {;
-    print("error caught: $err");
+  } catch (err) {
     return -1;
   }
 }
